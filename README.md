@@ -36,9 +36,9 @@ python .\app.py
 Example output (sample files included):
 
 ```
-('john.txt', 'juma.txt', 0.5465972177348937)
-('fatma.txt', 'john.txt', 0.14806887549598566)
-('fatma.txt', 'juma.txt', 0.18643448370323362)
+('file1.txt', 'file2.txt', 0.5466)
+('file3.txt', 'file1.txt', 0.1481)
+('file3.txt', 'file2.txt', 0.1864)
 ```
 
 ## Notes for contributors and AI agents
@@ -53,4 +53,4 @@ Example output (sample files included):
 - Add tests for `vectorize` and `check_plagiarism` functions.
 
 ---
-If you want, I can commit this file to the repo and push it to `origin/main` for you. Tell me to proceed and I'll run the git commands.
+This README contains no personal contact information or contributor names.
