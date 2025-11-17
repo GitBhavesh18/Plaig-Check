@@ -47,7 +47,7 @@ Would you like to use a Python library instead to help you compare strings and d
 
 ## Explore it 
 
-Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at *sourabhjoshi@gmail.com*.
+Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at *rajpurohitbhaveshh.18@gmail.com*.
 
 ## Issues
 
